@@ -1,0 +1,33 @@
+.header{
+    background-color: slategrey;
+    margin: 0px;
+    padding: 15px;
+}
+.header .navbar-brand{
+    padding: 0px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.seccion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.seccion h1{
+    text-align: center;
+    padding: 20px;
+}
+.seccion div h2{
+    text-align: center;
+    padding: 10px;
+}
+.seccion div{
+    width: 60%;
+    background-color: darkgray;
+    padding: 20px;
+    margin: 20px;
+}
+p{
+    font-size: 20px;
+}
+
